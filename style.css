@@ -59,7 +59,11 @@ footer span{
     background-color:#015e90;
     padding: 1px 4px;
     font-weight: bold;
+    
     border-radius: 2px;
+}
+.audiofooter{
+    margin-top: 6rem;
 }
 .video{
     display: flex;
